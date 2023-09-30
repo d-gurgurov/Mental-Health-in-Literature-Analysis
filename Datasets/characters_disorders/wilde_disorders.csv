@@ -1,0 +1,249 @@
+name,novel,publishing_year,gender,description,description_words,numpy_array,similarity_scores
+Dorian Gray,The picture of Dorian Gray,1890,m,"Dorian Gray is the central character in Oscar Wilde's novel ""The Picture of Dorian Gray."" He undergoes a complex and morally transformative journey throughout the story. Here's a description of different aspects of his character:
+
+**Physical:**
+Dorian Gray is initially introduced as an extraordinarily handsome and youthful young man. His physical appearance is described as captivating, almost otherworldly. His beauty is a central theme in the novel, and it's the catalyst for his deal with the portrait.
+
+**Mental:**
+Dorian begins the story as a somewhat naive and impressionable young man. He is easily influenced by those around him and is initially characterized by his innocence. However, as the story progresses, his mental state becomes increasingly troubled and corrupted by his moral decay.
+
+**Behavioral:**
+Dorian's behavior undergoes a dramatic transformation. At the outset, he is polite, charming, and well-mannered. However, influenced by Lord Henry Wotton and the hedonistic philosophy he imparts, Dorian becomes indulgent, selfish, and morally corrupt. He engages in a life of debauchery and immorality.
+
+**Social:**
+Dorian is a member of the upper-class British society of his time. He is part of the fashionable elite and enjoys the privileges that come with his social standing. His reputation as a young man of extraordinary beauty becomes the stuff of gossip among the London social circles.
+
+**Key Actions:**
+- Dorian's key action is making a Faustian bargain with his portrait. He wishes that the portrait ages and bears the moral consequences of his actions while his own physical appearance remains untouched by time and sin.
+- He pursues a life of hedonism and debauchery, indulging in all kinds of sensual pleasures and disregarding the moral consequences of his actions. His portrait, hidden in his attic, begins to bear the scars and deformities that should have been his.
+- As the portrait becomes increasingly grotesque, Dorian becomes consumed by guilt and paranoia, ultimately leading to a tragic and violent climax.
+
+Dorian Gray's character in Oscar Wilde's novel is a representation of the corrupting influence of beauty, decadence, and the pursuit of pleasure. His transformation from an innocent and handsome young man into a morally depraved figure serves as a cautionary tale about the consequences of living a life devoid of moral responsibility.",dorian gray central character oscar wilde novel the picture dorian gray undergoes complex morally transformative journey throughout story here description different aspect character physical dorian gray initially introduced extraordinarily handsome youthful young man physical appearance described captivating almost otherworldly beauty central theme novel catalyst deal portrait mental dorian begin story somewhat naive impressionable young man easily influenced around initially characterized innocence however story progress mental state becomes increasingly troubled corrupted moral decay behavioral dorian behavior undergoes dramatic transformation outset polite charming wellmannered however influenced lord henry wotton hedonistic philosophy imparts dorian becomes indulgent selfish morally corrupt engages life debauchery immorality social dorian member upperclass british society time part fashionable elite enjoys privilege come social standing reputation young man extraordinary beauty becomes stuff gossip among london social circle key action  dorian key action making faustian bargain portrait wish portrait age bear moral consequence action physical appearance remains untouched time sin  pursues life hedonism debauchery indulging kind sensual pleasure disregarding moral consequence action portrait hidden attic begin bear scar deformity his  portrait becomes increasingly grotesque dorian becomes consumed guilt paranoia ultimately leading tragic violent climax dorian gray character oscar wilde novel representation corrupting influence beauty decadence pursuit pleasure transformation innocent handsome young man morally depraved figure serf cautionary tale consequence living life devoid moral responsibility,"[ 0.64529407 -0.51375723  0.91574413 ...  0.02556281  1.03491151
+ -0.39464319]","[('Secondary obsessive-compulsive or related syndrome', 0.5271597865707113), ('Kleptomania', 0.50057144927903), ('Secondary impulse control syndrome', 0.49316990364091107), ('Secondary personality change', 0.4842144515158967), ('Disorders due to addictive behaviours', 0.4822240229338065)]"
+Lord Henry Wotton,The picture of Dorian Gray,1890,m,"Lord Henry Wotton is a central character in Oscar Wilde's novel ""The Picture of Dorian Gray."" He is a charismatic and influential figure who plays a significant role in Dorian Gray's moral transformation. Here's a description of different aspects of his character:
+
+**Physical:**
+Lord Henry is described as an elegant and well-dressed gentleman. He carries an air of sophistication and charm that makes him appealing to those around him. His physical appearance is not a central focus in the novel, but his demeanor and style are captivating.
+
+**Mental:**
+Lord Henry is characterized by his wit, intellect, and cynicism. He possesses a sharp intellect and a gift for persuasive speech. He is a hedonist and embraces a philosophy of pleasure and self-indulgence, often expressing his ideas with aphorisms and epigrams.
+
+**Behavioral:**
+Lord Henry's behavior is marked by his hedonistic and cynical worldview. He encourages Dorian Gray to live life to the fullest, pursuing pleasure and beauty above all else. He is a manipulative figure who influences Dorian's decisions and actions, leading him down a path of moral decay.
+
+**Social:**
+Lord Henry is part of the upper-class British society and is well-connected in fashionable London circles. He is invited to social gatherings, and his views are often sought after by those in his social sphere.
+
+**Key Actions:**
+- Lord Henry's key action is his influence over Dorian Gray. He persuades Dorian to adopt a hedonistic and amoral lifestyle, encouraging him to embrace his youthful beauty and indulge in all manner of pleasures without regard for the consequences.
+- He introduces Dorian to the concept of the ""New Hedonism"" and the pursuit of one's desires without moral restraint. Dorian becomes enamored with Lord Henry's philosophy, leading to his moral downfall.
+- Lord Henry's epigrams and aphorisms, such as ""The only way to get rid of a temptation is to yield to it,"" reflect his belief in the importance of indulgence and the rejection of societal norms.
+
+Lord Henry Wotton's character in ""The Picture of Dorian Gray"" represents the allure of hedonism and the corrupting influence of a cynical worldview. He serves as the catalyst for Dorian's descent into moral depravity and stands as a symbol of the destructive power of indulgence and self-obsession.",lord henry wotton central character oscar wilde novel the picture dorian gray charismatic influential figure play significant role dorian gray moral transformation here description different aspect character physical lord henry described elegant welldressed gentleman carry air sophistication charm make appealing around him physical appearance central focus novel demeanor style captivating mental lord henry characterized wit intellect cynicism posse sharp intellect gift persuasive speech hedonist embrace philosophy pleasure selfindulgence often expressing idea aphorism epigram behavioral lord henry behavior marked hedonistic cynical worldview encourages dorian gray live life fullest pursuing pleasure beauty else manipulative figure influence dorian decision action leading path moral decay social lord henry part upperclass british society wellconnected fashionable london circle invited social gathering view often sought social sphere key action  lord henry key action influence dorian gray persuades dorian adopt hedonistic amoral lifestyle encouraging embrace youthful beauty indulge manner pleasure without regard consequence  introduces dorian concept new hedonism pursuit one desire without moral restraint dorian becomes enamored lord henry philosophy leading moral downfall  lord henry epigram aphorism the way get rid temptation yield it reflect belief importance indulgence rejection societal norm lord henry wottons character the picture dorian gray represents allure hedonism corrupting influence cynical worldview serf catalyst dorian descent moral depravity stand symbol destructive power indulgence selfobsession,"[ 0.97900236 -0.56747973  1.04426455 ...  0.35346156  1.11674857
+ -0.38223955]","[('Secondary impulse control syndrome', 0.45882884387013745), ('Kleptomania', 0.4479356450889129), ('Secondary obsessive-compulsive or related syndrome', 0.4425359362764988), ('Schizotypal disorder', 0.4306825257031641), ('Pyromania', 0.4264983714125222)]"
+Basil Hallward,The picture of Dorian Gray,1890,m,"Basil Hallward is a significant character in Oscar Wilde's novel ""The Picture of Dorian Gray."" He is an artist and the painter of the portrait that becomes central to the story. Here's a description of different aspects of his character:
+
+**Physical:**
+Basil is described as a talented and sensitive artist who is deeply passionate about his work. While his physical appearance is not extensively detailed in the novel, his artistic sensibility and emotional depth are emphasized.
+
+**Mental:**
+Basil is characterized as a thoughtful and introspective individual. He is deeply committed to his art and takes his work seriously. He is also portrayed as a morally upright and virtuous character, in contrast to Lord Henry's hedonistic philosophy.
+
+**Behavioral:**
+Basil's behavior is marked by his dedication to his art and his genuine friendship with Dorian Gray. He is protective of Dorian and expresses concern when he notices Dorian's growing infatuation with Lord Henry's hedonistic ideas.
+
+**Social:**
+Basil is a respected artist within London's cultural and artistic circles. His work is highly regarded, and he enjoys a reputation as a talented and sincere painter. He is well-connected within this social sphere.
+
+**Key Actions:**
+- Basil's key action is painting the portrait of Dorian Gray. This portrait becomes central to the story as it ages and bears the moral consequences of Dorian's actions while Dorian himself remains youthful and unblemished.
+- He introduces Dorian to Lord Henry Wotton, unaware of the corrupting influence that Lord Henry will have on Dorian's life.
+- As the story progresses, Basil becomes increasingly concerned about the changes he observes in Dorian's character, and he confronts Dorian about his behavior. This confrontation leads to a tragic turn of events.
+
+Basil Hallward's character in ""The Picture of Dorian Gray"" represents the moral and artistic conscience within the novel. He is a symbol of the artistic ideal and the contrast between artistic purity and moral decay. His relationship with Dorian Gray and the portrait he paints serves as a central element in the exploration of themes of beauty, morality, and corruption in the story.",basil hallward significant character oscar wilde novel the picture dorian gray artist painter portrait becomes central story here description different aspect character physical basil described talented sensitive artist deeply passionate work physical appearance extensively detailed novel artistic sensibility emotional depth emphasized mental basil characterized thoughtful introspective individual deeply committed art take work seriously also portrayed morally upright virtuous character contrast lord henry hedonistic philosophy behavioral basil behavior marked dedication art genuine friendship dorian gray protective dorian express concern notice dorian growing infatuation lord henry hedonistic idea social basil respected artist within london cultural artistic circle work highly regarded enjoys reputation talented sincere painter wellconnected within social sphere key action  basil key action painting portrait dorian gray portrait becomes central story age bear moral consequence dorian action dorian remains youthful unblemished  introduces dorian lord henry wotton unaware corrupting influence lord henry dorian life  story progress basil becomes increasingly concerned change observes dorian character confronts dorian behavior confrontation lead tragic turn event basil hallwards character the picture dorian gray represents moral artistic conscience within novel symbol artistic ideal contrast artistic purity moral decay relationship dorian gray portrait paint serf central element exploration theme beauty morality corruption story,"[ 0.62766171 -0.14477953  0.62442583 ... -0.0644806   0.66942382
+ -0.46096504]","[('Personality disorder', 0.4932268227558999), ('Olfactory reference disorder', 0.48518471484564796), ('Body dysmorphic disorder', 0.44043907960141226), ('Body-focused repetitive behaviour disorders', 0.43708019114758867), ('Body-focused repetitive behaviour disorders', 0.43708019114758867)]"
+Sibyl Vane,The picture of Dorian Gray,1890,f,"Sibyl Vane is a pivotal character in Oscar Wilde's novel ""The Picture of Dorian Gray."" She is a young actress who becomes romantically involved with Dorian Gray. Here's a description of different aspects of her character:
+
+**Physical:**
+Sibyl Vane is described as a beautiful and talented actress. Her physical beauty is emphasized in the novel, and it is one of the reasons Dorian becomes infatuated with her. She is often associated with roles that showcase her beauty and grace on the stage.
+
+**Mental:**
+Sibyl is portrayed as a passionate and romantic individual. She is deeply committed to her acting and often immerses herself completely in her roles. However, her emotional intensity also leads to moments of despair and vulnerability.
+
+**Behavioral:**
+Sibyl's behavior is marked by her dedication to her craft. She is known for her exceptional talent as an actress, particularly in portraying Shakespearean heroines. However, her behavior takes a dramatic turn when she falls in love with Dorian Gray.
+
+**Social:**
+Sibyl comes from a lower social class than Dorian Gray and is part of the theater world. Her family and background are less privileged than those of the upper-class characters in the novel.
+
+**Key Actions:**
+- Sibyl's key action is falling in love with Dorian Gray. Their relationship is intense, and she places all her hopes and dreams on their love. However, when Dorian becomes disenchanted with her acting after one poor performance, he ends their engagement, leading to Sibyl's despair.
+- Following Dorian's rejection, Sibyl's behavior on and off the stage deteriorates. Her acting becomes lifeless, and she loses her passion for her craft. She eventually takes her own life by ingesting poison.
+
+Sibyl Vane's character is crucial to the novel's exploration of the consequences of Dorian's moral corruption. Her tragic fate is a reflection of the impact Dorian's influence has on the lives of those around him. Sibyl represents the fleeting nature of beauty, love, and innocence in the face of moral decay.",sibyl vane pivotal character oscar wilde novel the picture dorian gray young actress becomes romantically involved dorian gray here description different aspect character physical sibyl vane described beautiful talented actress physical beauty emphasized novel one reason dorian becomes infatuated her often associated role showcase beauty grace stage mental sibyl portrayed passionate romantic individual deeply committed acting often immerses completely role however emotional intensity also lead moment despair vulnerability behavioral sibyl behavior marked dedication craft known exceptional talent actress particularly portraying shakespearean heroine however behavior take dramatic turn fall love dorian gray social sibyl come lower social class dorian gray part theater world family background le privileged upperclass character novel key action  sibyl key action falling love dorian gray relationship intense place hope dream love however dorian becomes disenchanted acting one poor performance end engagement leading sibyl despair  following dorian rejection sibyl behavior stage deteriorates acting becomes lifeless loses passion craft eventually take life ingesting poison sibyl vane character crucial novel exploration consequence dorian moral corruption tragic fate reflection impact dorian influence life around him sibyl represents fleeting nature beauty love innocence face moral decay,"[ 0.40863329 -0.3449263  -0.31696942 ...  0.03447563  1.31998467
+ -0.23207574]","[('Separation anxiety disorder', 0.4440923798407521), ('Personality disorder', 0.4421062401348994), ('Prolonged grief disorder', 0.4152193983444154), ('Body-focused repetitive behaviour disorders', 0.4007074200916215), ('Body-focused repetitive behaviour disorders', 0.4007074200916215)]"
+James Vane,The picture of Dorian Gray,1890,m,"James Vane is a character in Oscar Wilde's novel ""The Picture of Dorian Gray."" He is the brother of Sibyl Vane and plays a crucial role in the later part of the novel. Here's a description of different aspects of his character:
+
+**Physical:**
+James Vane is described as a rugged and determined young man. He is strong and physically capable, which becomes relevant to his actions later in the story.
+
+**Mental:**
+James is characterized by his deep love and protectiveness for his sister, Sibyl. He is portrayed as a devoted brother who is willing to go to great lengths to ensure her happiness and safety.
+
+**Behavioral:**
+James's behavior is primarily motivated by his love for Sibyl. When he discovers that Sibyl has become romantically involved with Dorian Gray, he becomes concerned and decides to confront Dorian.
+
+**Social:**
+James is not depicted as belonging to the same social class as the upper-class characters in the novel. His background is more modest, and he is not part of the same social circles as Dorian and his acquaintances.
+
+**Key Actions:**
+- James's key action is his decision to confront Dorian Gray after learning about Dorian's relationship with his sister, Sibyl. He mistakenly believes that Dorian is responsible for Sibyl's distress and ultimately her death.
+- He tracks Dorian to London and becomes obsessed with the idea of revenge. However, he is not aware of Dorian's supernatural connection to the portrait and his continued youth.
+- In a tragic turn of events, James dies as a result of his pursuit of vengeance against Dorian. His death marks a significant point in the novel, as it underscores the destructive nature of Dorian's influence.
+
+James Vane's character serves as a symbol of familial love and the consequences of vengeance. His unwavering devotion to his sister and his quest for retribution against Dorian highlight the themes of innocence and corruption that run throughout the novel.",james vane character oscar wilde novel the picture dorian gray brother sibyl vane play crucial role later part novel here description different aspect character physical james vane described rugged determined young man strong physically capable becomes relevant action later story mental james characterized deep love protectiveness sister sibyl portrayed devoted brother willing go great length ensure happiness safety behavioral james behavior primarily motivated love sibyl discovers sibyl become romantically involved dorian gray becomes concerned decides confront dorian social james depicted belonging social class upperclass character novel background modest part social circle dorian acquaintance key action  james key action decision confront dorian gray learning dorian relationship sister sibyl mistakenly belief dorian responsible sibyl distress ultimately death  track dorian london becomes obsessed idea revenge however aware dorian supernatural connection portrait continued youth  tragic turn event james dy result pursuit vengeance dorian death mark significant point novel underscore destructive nature dorian influence james vane character serf symbol familial love consequence vengeance unwavering devotion sister quest retribution dorian highlight theme innocence corruption run throughout novel,"[ 0.68334258  0.16091092  0.79822278 ...  0.37663701  0.79837096
+ -0.54605722]","[('Separation anxiety disorder', 0.4913516531712548), ('Personality disorder', 0.4837722999882431), ('Prolonged grief disorder', 0.4378606524773908), ('Complex post traumatic stress disorder', 0.4129006244868177), ('Oppositional defiant disorder', 0.39632645181184467)]"
+Alan Campbell,The picture of Dorian Gray,1890,m,"Alan Campbell is a character in Oscar Wilde's novel ""The Picture of Dorian Gray."" He is a chemist and a former friend and associate of Dorian Gray. Here's a description of different aspects of his character:
+
+**Physical:**
+The physical appearance of Alan Campbell is not extensively detailed in the novel. What is emphasized about him is his profession as a chemist, which becomes significant to the plot.
+
+**Mental:**
+Alan Campbell is portrayed as a character who initially values his reputation and career. He is intelligent and skilled in chemistry, and this expertise is crucial to the actions he later takes in the story.
+
+**Behavioral:**
+Alan's behavior is largely driven by a sense of fear and guilt. He is deeply troubled by his involvement in one of Dorian Gray's dark secrets, which haunts him throughout the novel.
+
+**Social:**
+Alan is initially depicted as a respected member of society, with a promising career in the scientific community. However, his association with Dorian Gray leads to a significant change in his social standing.
+
+**Key Actions:**
+- Alan Campbell's key action in the novel is his involvement in covering up one of Dorian Gray's crimes. Dorian convinces Alan to help him dispose of evidence related to a morally reprehensible act.
+- After this event, Alan becomes consumed by guilt and fear, leading to a downward spiral in his personal and professional life.
+- Alan's actions are driven by his desperation to escape the consequences of his involvement with Dorian. Eventually, he takes his own life, leaving behind a letter that implicates Dorian in the dark deeds they shared.
+
+Alan Campbell's character in the novel serves as a reflection of the moral decay and corruption that Dorian Gray's influence has on those around him. His tragic fate underscores the central themes of the novel, including the consequences of living a life devoid of morality and the corrupting influence of aestheticism.",alan campbell character oscar wilde novel the picture dorian gray chemist former friend associate dorian gray here description different aspect character physical physical appearance alan campbell extensively detailed novel emphasized profession chemist becomes significant plot mental alan campbell portrayed character initially value reputation career intelligent skilled chemistry expertise crucial action later take story behavioral alans behavior largely driven sense fear guilt deeply troubled involvement one dorian gray dark secret haunt throughout novel social alan initially depicted respected member society promising career scientific community however association dorian gray lead significant change social standing key action  alan campbell key action novel involvement covering one dorian gray crime dorian convinces alan help dispose evidence related morally reprehensible act  event alan becomes consumed guilt fear leading downward spiral personal professional life  alans action driven desperation escape consequence involvement dorian eventually take life leaving behind letter implicates dorian dark deed shared alan campbell character novel serf reflection moral decay corruption dorian gray influence around him tragic fate underscore central theme novel including consequence living life devoid morality corrupting influence aestheticism,"[ 0.15622351 -0.31042877  0.61373317 ...  0.19430971  0.71913755
+ -0.61420459]","[('Personality disorder', 0.45729346707177576), ('Olfactory reference disorder', 0.4543143628011994), ('Secondary dissociative syndrome', 0.43802404138417084), ('Obsessive-compulsive disorder', 0.43193628835897524), ('Secondary obsessive-compulsive or related syndrome', 0.4291705883069092)]"
+Mrs Vane,The picture of Dorian Gray,1890,f,"Mrs. Vane is a minor character in Oscar Wilde's novel ""The Picture of Dorian Gray."" She is the mother of Sibyl Vane and plays a small but significant role in the story. Here's a description of different aspects of her character:
+
+**Physical:**
+Mrs. Vane's physical appearance is not extensively described in the novel. She is not a central character, and her role is more focused on her relationship with her daughter, Sibyl.
+
+**Mental:**
+Mrs. Vane is portrayed as a protective and caring mother, especially concerned for the welfare of her daughter, Sibyl. Her mental state becomes strained after Sibyl's tragic death, and she is deeply affected by the loss.
+
+**Behavioral:**
+Mrs. Vane's behavior is characterized by her devotion to her daughter. She is willing to make sacrifices to support Sibyl's career as an actress and is devastated by the events that lead to Sibyl's downfall.
+
+**Social:**
+Mrs. Vane is not depicted as belonging to the same upper-class social circles as the novel's more central characters, such as Dorian Gray and Lord Henry. Her background is likely more modest, given her daughter's involvement in the theater.
+
+**Key Actions:**
+- Mrs. Vane's key action in the novel is her support of her daughter's acting career. She allows Sibyl to pursue her dreams of becoming an actress, even though it may not align with societal expectations.
+- After Sibyl's tragic death, Mrs. Vane's behavior becomes increasingly distressed. She blames Dorian Gray for her daughter's misfortune and is vocal about her feelings of anger and sorrow.
+
+While Mrs. Vane's role in the novel is relatively minor, her character serves as a representation of maternal love and concern. Her reactions to the events surrounding Sibyl's relationship with Dorian Gray and its tragic outcome underscore the moral and emotional impact of Dorian's actions on those in his orbit.",mr vane minor character oscar wilde novel the picture dorian gray mother sibyl vane play small significant role story here description different aspect character physical mr vane physical appearance extensively described novel central character role focused relationship daughter sibyl mental mr vane portrayed protective caring mother especially concerned welfare daughter sibyl mental state becomes strained sibyl tragic death deeply affected loss behavioral mr vane behavior characterized devotion daughter willing make sacrifice support sibyl career actress devastated event lead sibyl downfall social mr vane depicted belonging upperclass social circle novel central character dorian gray lord henry background likely modest given daughter involvement theater key action  mr vane key action novel support daughter acting career allows sibyl pursue dream becoming actress even though may align societal expectation  sibyl tragic death mr vane behavior becomes increasingly distressed blame dorian gray daughter misfortune vocal feeling anger sorrow mr vane role novel relatively minor character serf representation maternal love concern reaction event surrounding sibyl relationship dorian gray tragic outcome underscore moral emotional impact dorian action orbit,"[ 0.34746841 -0.15149325  0.36452058 ... -0.05538031  0.84878749
+ -0.97232944]","[('Separation anxiety disorder', 0.4751787461637269), ('Personality disorder', 0.4601376244029711), ('Prolonged grief disorder', 0.45966308587009436), ('Agoraphobia', 0.4561106948266551), ('Complex post traumatic stress disorder', 0.4499709290843533)]"
+Lady Agatha,The picture of Dorian Gray,1890,f,"Lady Agatha is a minor character in Oscar Wilde's novel ""The Picture of Dorian Gray."" She is a member of London's upper-class society and is briefly mentioned in the story. Here's a description of different aspects of her character:
+
+**Physical:**
+Lady Agatha's physical appearance is not described in detail in the novel. Given her status as a member of the upper class, it can be assumed that she adheres to the fashionable standards of her time.
+
+**Mental:**
+As a minor character with little direct involvement in the plot, Lady Agatha's mental attributes and personality are not explored in the novel. She serves more as a representation of the upper-class milieu.
+
+**Behavioral:**
+Lady Agatha's behavior is consistent with the societal norms and manners expected of a member of the upper class in Victorian England. She is likely to engage in the social activities and events typical of her social standing.
+
+**Social:**
+Lady Agatha is part of London's elite social circle. Her presence at gatherings and events reflects her social status, and she is associated with the same upper-class society as the novel's main characters.
+
+**Key Actions:**
+Lady Agatha does not have any significant key actions in the novel, nor does she play a central role in the plot. She is a background character who serves to illustrate the social milieu of Dorian Gray's world.
+
+In the novel, Lady Agatha represents the aristocratic society that Dorian Gray moves within. While her character is not developed in depth, her presence underscores the novel's themes of social class, decadence, and the contrast between the public and private lives of the upper class in Victorian London.",lady agatha minor character oscar wilde novel the picture dorian gray member london upperclass society briefly mentioned story here description different aspect character physical lady agathas physical appearance described detail novel given status member upper class assumed adheres fashionable standard time mental minor character little direct involvement plot lady agathas mental attribute personality explored novel serf representation upperclass milieu behavioral lady agathas behavior consistent societal norm manner expected member upper class victorian england likely engage social activity event typical social standing social lady agatha part london elite social circle presence gathering event reflects social status associated upperclass society novel main character key action lady agatha significant key action novel play central role plot background character serf illustrate social milieu dorian gray world novel lady agatha represents aristocratic society dorian gray move within character developed depth presence underscore novel theme social class decadence contrast public private life upper class victorian london,"[-0.23806182 -1.24753284  0.01611614 ...  0.03457584  0.92666149
+ -0.49453622]","[('Personality disorder', 0.3859788369624271), ('Autism spectrum disorder', 0.362861390364561), ('Secondary dissociative syndrome', 0.35235457647036983), ('Schizotypal disorder', 0.34490206672861856), ('Hoarding disorder', 0.34488308795039446)]"
+Bernardo Calvacanti,The Duchess of Padua,1891,m,"Bernardo Calvacanti is a character in Oscar Wilde's play ""The Duchess of Padua."" Here's a description of different aspects of his character:
+
+**Physical:**
+The physical appearance of Bernardo Calvacanti is not extensively described in the play. Like many of the secondary characters, his physical attributes are not a central focus of the narrative.
+
+**Mental:**
+Bernardo's mental traits are not explored in great depth in the play. He appears to be a loyal and devoted follower of the Duchess of Padua, Guido Ferranti, and other key characters. His loyalty is a defining aspect of his character.
+
+**Behavioral:**
+Bernardo is depicted as a faithful servant and companion to the Duchess of Padua, and his behavior is marked by his dedication to her and her family. He follows her orders and supports her in her endeavors.
+
+**Social:**
+Bernardo occupies a lower social status than the nobility in Padua. As a servant, his social position is subservient to that of the Duchess and other members of the nobility.
+
+**Key Actions:**
+- Bernardo's key actions in the play primarily revolve around his role as a loyal servant and confidant to the Duchess of Padua and Guido Ferranti.
+- He is often seen carrying out tasks at the Duchess's behest, and his actions are driven by his loyalty to her.
+- While not a central character in terms of driving the main plot, Bernardo's unwavering support and devotion to the Duchess and other central characters contribute to the dynamics of the play.
+
+Bernardo Calvacanti serves as a symbol of loyalty and devotion in ""The Duchess of Padua."" His actions underscore the themes of loyalty, betrayal, and power that are central to the play's narrative.",bernardo calvacanti character oscar wilde play the duchess padua here description different aspect character physical physical appearance bernardo calvacanti extensively described play like many secondary character physical attribute central focus narrative mental bernardos mental trait explored great depth play appears loyal devoted follower duchess padua guido ferranti key character loyalty defining aspect character behavioral bernardo depicted faithful servant companion duchess padua behavior marked dedication family follows order support endeavor social bernardo occupies lower social status nobility padua servant social position subservient duchess member nobility key action  bernardos key action play primarily revolve around role loyal servant confidant duchess padua guido ferranti  often seen carrying task duchess behest action driven loyalty her  central character term driving main plot bernardos unwavering support devotion duchess central character contribute dynamic play bernardo calvacanti serf symbol loyalty devotion the duchess padua action underscore theme loyalty betrayal power central play narrative,"[ 0.25100911 -0.79527372  0.41133898 ...  0.33230659  0.62702101
+ -0.05748092]","[('Personality disorder', 0.45779815773523586), ('Prolonged grief disorder', 0.38788841896221155), ('Separation anxiety disorder', 0.38499265110545206), ('Hoarding disorder', 0.3794804306798346), ('Dissociative amnesia', 0.37850585418706517)]"
+Count Moranzone,The Duchess of Padua,1891,m,"Count Moranzone is a character in Oscar Wilde's play ""The Duchess of Padua."" Here's a description of different aspects of his character:
+
+**Physical:**
+The physical appearance of Count Moranzone is not extensively described in the play. As a secondary character, his physical attributes are not the focus of the narrative.
+
+**Mental:**
+Count Moranzone's mental traits are not explored in great detail in the play. He appears to be a character who is entangled in the political and social intrigue of Padua.
+
+**Behavioral:**
+Count Moranzone's behavior is marked by his involvement in the political affairs of Padua. He is depicted as a cunning and politically astute character who navigates the complex web of power struggles in the city.
+
+**Social:**
+Count Moranzone is a member of the nobility in Padua, and his social status is likely tied to his position in the city's political hierarchy.
+
+**Key Actions:**
+- Count Moranzone's key actions primarily revolve around his political maneuvering and involvement in the power struggles of Padua. He is part of the political machinations that affect the lives of the central characters.
+- He plays a role in the unfolding drama surrounding the Duchess of Padua, Guido Ferranti, and other key characters. His actions are driven by his political ambitions and interests.
+- While not a central character in the play, Count Moranzone's actions contribute to the intrigue and conflict that drive the narrative.
+
+Count Moranzone serves as a representative of the political and social complexities of Padua in Oscar Wilde's play. His actions and political involvement add depth to the story's exploration of power and intrigue in Renaissance Italy.",count moranzone character oscar wilde play the duchess padua here description different aspect character physical physical appearance count moranzone extensively described play secondary character physical attribute focus narrative mental count moranzones mental trait explored great detail play appears character entangled political social intrigue padua behavioral count moranzones behavior marked involvement political affair padua depicted cunning politically astute character navigates complex web power struggle city social count moranzone member nobility padua social status likely tied position city political hierarchy key action  count moranzones key action primarily revolve around political maneuvering involvement power struggle padua part political machination affect life central character  play role unfolding drama surrounding duchess padua guido ferranti key character action driven political ambition interest  central character play count moranzones action contribute intrigue conflict drive narrative count moranzone serf representative political social complexity padua oscar wilde play action political involvement add depth story exploration power intrigue renaissance italy,"[-0.36047393 -0.48540866  0.62336731 ...  0.34600067  0.72341639
+ -0.30875373]","[('Personality disorder', 0.4795138225996449), ('Factitious disorder imposed on self', 0.39586428628610537), ('Partial dissociative identity disorder', 0.38991928211559795), ('Obsessive-compulsive disorder', 0.3815105265019537), ('Secondary dissociative syndrome', 0.37722178981899335)]"
+Ascanio Cristofano,The Duchess of Padua,1891,m,"Ascanio Cristofano is a character in Oscar Wilde's play ""The Duchess of Padua."" Here's a description of different aspects of his character:
+
+**Physical:**
+Ascanio's physical appearance is not described in great detail in the play. As a secondary character, his physical attributes are not the focus of the narrative.
+
+**Mental:**
+Ascanio is portrayed as a loyal and devoted friend to Guido Ferranti, one of the central characters. He appears to be sincere and caring, especially in his interactions with Guido.
+
+**Behavioral:**
+Ascanio's behavior is marked by his loyalty to Guido and his willingness to support his friend's endeavors. He is often by Guido's side and plays a supportive role in the unfolding events of the play.
+
+**Social:**
+Ascanio's social status is likely tied to his association with Guido and the noble circles of Padua. While he may not hold a prominent position, he is an important character within the context of the play.
+
+**Key Actions:**
+- Ascanio's key actions include his steadfast support of Guido throughout the play, particularly in Guido's pursuit of Beatrice, the Duchess of Padua.
+- He is involved in the events and intrigue surrounding the Duke of Padua, Beatrice, and Guido, but he plays a more supportive role compared to the central characters.
+- Ascanio's actions reflect themes of friendship and loyalty in the face of complex and dramatic circumstances.
+
+Ascanio Cristofano is a loyal and supportive friend to Guido Ferranti in ""The Duchess of Padua."" While he may not be a central figure in the play's intrigue, his loyalty and friendship are important elements in the unfolding drama.",ascanio cristofano character oscar wilde play the duchess padua here description different aspect character physical ascanios physical appearance described great detail play secondary character physical attribute focus narrative mental ascanio portrayed loyal devoted friend guido ferranti one central character appears sincere caring especially interaction guido behavioral ascanios behavior marked loyalty guido willingness support friend endeavor often guidos side play supportive role unfolding event play social ascanios social status likely tied association guido noble circle padua may hold prominent position important character within context play key action  ascanios key action include steadfast support guido throughout play particularly guidos pursuit beatrice duchess padua  involved event intrigue surrounding duke padua beatrice guido play supportive role compared central character  ascanios action reflect theme friendship loyalty face complex dramatic circumstance ascanio cristofano loyal supportive friend guido ferranti the duchess padua may central figure play intrigue loyalty friendship important element unfolding drama,"[ 0.19908479 -0.45233843  0.7198385  ... -0.10590938  0.56641662
+ -0.03244885]","[('Personality disorder', 0.4692946081759231), ('Obsessive-compulsive disorder', 0.3944216739141233), ('Body integrity dysphoria', 0.376187642534916), ('Oppositional defiant disorder', 0.3656875400880175), ('Disorders due to addictive behaviours', 0.35458799070518254)]"
+Guido Ferranti,The Duchess of Padua,1891,m,"Guido Ferranti is a character in Oscar Wilde's play ""The Duchess of Padua."" Here's a description of different aspects of his character:
+
+**Physical:**
+Guido's physical appearance is not described in great detail in the play, as the focus is more on his actions and role in the plot. However, as a nobleman, he is likely dressed in the attire of the aristocracy of the time.
+
+**Mental:**
+Guido is portrayed as a passionate and impulsive character. His emotions run deep, particularly in his love for Beatrice, the Duchess of Padua. He is willing to take dramatic actions for the sake of love and honor.
+
+**Behavioral:**
+Guido's behavior is marked by his intense love for Beatrice and his willingness to confront challenges and threats head-on. He is fiercely protective of her and is not afraid to take risks for her sake.
+
+**Social:**
+Guido is a member of the nobility in Padua, and his social status is significant in the play. His love for Beatrice, who is married to the Duke, adds a layer of social complexity to the story.
+
+**Key Actions:**
+- Guido's key actions include his passionate love for Beatrice and his determination to be with her, even in the face of obstacles.
+- He becomes involved in the intrigue and political machinations surrounding the Duke of Padua and Beatrice, which drive much of the play's plot.
+- Guido's actions reflect themes of love, honor, and the consequences of pursuing one's desires.
+
+Guido Ferranti is a central character in ""The Duchess of Padua,"" and his intense emotions and actions are pivotal to the play's drama. His passionate love for Beatrice and his willingness to confront societal norms make him a compelling character in the story.",guido ferranti character oscar wilde play the duchess padua here description different aspect character physical guidos physical appearance described great detail play focus action role plot however nobleman likely dressed attire aristocracy time mental guido portrayed passionate impulsive character emotion run deep particularly love beatrice duchess padua willing take dramatic action sake love honor behavioral guidos behavior marked intense love beatrice willingness confront challenge threat headon fiercely protective afraid take risk sake social guido member nobility padua social status significant play love beatrice married duke add layer social complexity story key action  guidos key action include passionate love beatrice determination her even face obstacle  becomes involved intrigue political machination surrounding duke padua beatrice drive much play plot  guidos action reflect theme love honor consequence pursuing one desire guido ferranti central character the duchess padua intense emotion action pivotal play drama passionate love beatrice willingness confront societal norm make compelling character story,"[ 0.36505669 -0.49879992  0.57862747 ...  0.15035047  0.8953675
+ -0.33083794]","[('Personality disorder', 0.4968617184812899), ('Disorders due to addictive behaviours', 0.40569033882220706), ('Separation anxiety disorder', 0.40287227512442614), ('Oppositional defiant disorder', 0.3992462495119483), ('Adjustment disorder', 0.39898133789951507)]"
