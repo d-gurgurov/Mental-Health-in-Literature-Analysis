@@ -28,15 +28,15 @@ Try out our [mini-app](https://huggingface.co/spaces/NursNurs/detect_mental_diso
 
 Madness is a very prominent yet controversial topic; every society in different periods of time approached it differently. Some cultures ostracize and isolate "crazy" people, some cultures hold them for saint. It hasn't been so long since psychiatry developed as a science, and the classfication and diagnostic criteria for various disorders were developed (let alone the fact that what is considered as a disorder has also undergone changes).
 
-<strong>Many writers have described madness in their work without having any labels for the disorders.<strong>
+<strong>Many writers have described madness in their work without having any labels for the disorders.</strong>
 
 Some traits weren't recognized as symptoms even; for instance, sleeping all the time and having no energy could be acribed to lazyness and faulty character rather than, say, depression, and what is now considered as a bipolar disorder could be viewed as a moody personality. Since strict labels and diagnostic criteria didn't exist, we can only assume which disorders the authors described. And since writers often capture the spirit of their time in their work - whether by choice or by design - we can estimate societal views and attitudes to madness from their writings.
 
 There are many questions one can pose:
 
-    <strong>Do depicted disorders differ by time period/country/author?<strong>
-    <strong>Do popularly described disorders correlate with historical events/context?<strong> For example, can it be that after wars, more literary characters were described with PTSD, and after famine more characters had eating disorders?
-    <strong>Do male and female characters differ in what disorders are assigned to them?<strong> For example, could female characters be more often associated with depression and histeria, while male characters - with schizophrenia and asocial disorders?
+    Do depicted disorders differ by time period/country/author?
+    Do popularly described disorders correlate with historical events/context?For example, can it be that after wars, more literary characters were described with PTSD, and after famine more characters had eating disorders?
+    Do male and female characters differ in what disorders are assigned to them? For example, could female characters be more often associated with depression and histeria, while male characters - with schizophrenia and asocial disorders?
 
 This work is an attempt to address some of these questions using computational approach.
 
